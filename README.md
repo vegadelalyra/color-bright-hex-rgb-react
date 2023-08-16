@@ -1,3 +1,21 @@
+# COLOR NAME: Brightness Detector && HEX/RGB converter
+
+This web application provides you with two main features:
+
+1- You can enter the name of any CSS color, and it will give you its corresponding HEX and RGB formats.
+2- If you open the console on the website (by pressing ctrl + shift + i), you can find a utility function that helps you determine the brightness of the background color. Based on this brightness measurement (which provides a boolean), you can determine whether you should switch your font color for better visibility.
+
+## More about
+
+Hope this helps anybody and improves redability on any project.
+
+Basic React components with a not so clean code that still completes the task! Hopefully will refactor it with more sofisticated and light-weighter technologies and a code easier to read.
+
+### About the function
+
+You can cut off all the parameters on the function and the lines where they are used except for "color", the other ones where just bad code for my implementation (yes... It's a really inpure function).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
