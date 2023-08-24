@@ -1,3 +1,6 @@
+![image](https://github.com/vegadelalyra/color-bright-hex-rgb-react/assets/77188420/f0bab098-8db3-4b55-899c-d07565f2a65e)
+
+
 # COLOR NAME: Brightness Detector && HEX/RGB converter
 
 This web application provides you with two main features:
